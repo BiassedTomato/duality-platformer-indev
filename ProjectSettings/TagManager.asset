@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Terrain
+  - Llight
+  - Light
+  - InvisibleTrigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - pl
+  - wall
+  - Terrain
+  - Light
+  - 
+  - 
+  - Platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Walls
+    uniqueID: 2955904179
+    locked: 0
+  - name: InsideChests
+    uniqueID: 3167261679
+    locked: 0
+  - name: Terrain
+    uniqueID: 4029178411
+    locked: 0
+  - name: Player
+    uniqueID: 2060909455
+    locked: 0
+  - name: logo
+    uniqueID: 3490636209
+    locked: 0
